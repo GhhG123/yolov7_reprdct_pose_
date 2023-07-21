@@ -18,7 +18,7 @@
 
 具体复现分支为pose的代码：https://github.com/WongKinYiu/yolov7/tree/pose#citation
 
-<img src='Untitled Folder/Pose_estimation.png' width=500 align=left>
+<img src='Untitled Folder/Pose_estimation.png' width=500 >
 
 ## 2.平台选择及环境配置
 
