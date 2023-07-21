@@ -50,7 +50,10 @@
 
 ​		**硬盘系统盘：**30 GB
 
-​		**数据盘：**免费:50GB  付费:30GB
+​		**数据盘：**免费:50GB  付费:30GB<br>
+<img src='Untitled Folder/截屏2023-07-21 13.45.28.png' width=350 ><br>
+<img src='Untitled Folder/截屏2023-07-21 09.05.06.png' width=350 ><br>
+<img src='Untitled Folder/截屏2023-07-21 13.45.02.png' width=350 ><br>
 
 ## 3.复现结果与label对比
 
@@ -60,7 +63,7 @@
 
 <img src='Untitled Folder/000000006471_labels_副本-9948577.jpg' width=600>
 
-​		epochs=19结果：
+​		epochs=20结果：
 
 <img src='Untitled Folder/000000006471_pred_副本.jpg' width=600>
 
@@ -68,11 +71,11 @@
 
 ​								**Labels**                                                                              **19**
 
-<img src='Untitled Folder/截屏2023-07-21 22.13.55.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 22.24.50.png' width=352>
+<img src='Untitled Folder/截屏2023-07-21 22.13.55.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 22.24.50.png' width=352><br>
 
 
 
-<img src='Untitled Folder/截屏2023-07-21 22.14.05.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 22.24.59.png' width=350 >
+<img src='Untitled Folder/截屏2023-07-21 22.14.05.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 22.24.59.png' width=350 ><br>
 
 
 
