@@ -140,78 +140,78 @@
 
 root@autodl-container-37fe40aa96-027a6242:~/autodl-tmp# tree -L 3
 .
-├── coco
-│   ├── annotations
-│   │   └── instances_val2017.json
-│   ├── labels
-│   │   ├── train2017
-│   │   └── val2017
-│   ├── LICENSE
-│   ├── README.txt
-│   ├── test-dev2017.txt
-│   ├── train2017.txt
-│   └── val2017.txt
-├── coco2017labels-keypoints.zip
-├── coco_kpts
-│   ├── images
-│   │   ├── test2017
-│   │   ├── train2017
-│   │   └── val2017
-│   ├── labels
-│   │   ├── train2017
-│   │   └── val2017
-│   ├── train2017.cache
-│   ├── train2017.txt
-│   ├── val2017.cache
-│   └── val2017.txt
-├── coco.zip
-├── yolov7-pose
-│   ├── cfg
-│   │   └── yolov7-w6-pose.yaml
-│   ├── data
-│   │   ├── coco_kpts_128.yaml
-│   │   ├── coco_kpts.yaml
-│   │   ├── hyp.pose.yaml
-│   │   └── scripts
-│   ├── detect.py
-│   ├── hubconf.py
-│   ├── LICENSE.md
-│   ├── models
-│   │   ├── common.py
-│   │   ├── experimental.py
-│   │   ├── export.py
-│   │   ├── hub
-│   │   ├── __init__.py
-│   │   ├── __pycache__
-│   │   └── yolo.py
-│   ├── onnx_inference
-│   │   ├── img.png
-│   │   ├── sample_ips.txt
-│   │   └── yolo_pose_onnx_inference.py
-│   ├── README.md
-│   ├── requirements.txt
-│   ├── runs
-│   │   └── test
-│   ├── test.py
-│   ├── train.py
-│   ├── utils
-│   │   ├── activations.py
-│   │   ├── autoanchor.py
-│   │   ├── aws
-│   │   ├── datasets.py
-│   │   ├── figures
-│   │   ├── flask_rest_api
-│   │   ├── general.py
-│   │   ├── google_app_engine
-│   │   ├── google_utils.py
-│   │   ├── __init__.py
-│   │   ├── loss.py
-│   │   ├── metrics.py
-│   │   ├── plots.py
-│   │   ├── __pycache__
-│   │   ├── torch_utils.py
-│   │   └── wandb_logging
-│   ├── weights
-│   │   └── yolov7-w6-person.pt
-│   └── yolov7-w6-pose.pt
-└── yolov7-pose.zip
+├── coco<br>
+│   ├── annotations<br>
+│   │   └── instances_val2017.json<br>
+│   ├── labels<br>
+│   │   ├── train2017<br>
+│   │   └── val2017<br>
+│   ├── LICENSE<br>
+│   ├── README.txt<br>
+│   ├── test-dev2017.txt<br>
+│   ├── train2017.txt<br>
+│   └── val2017.txt<br>
+├── coco2017labels-keypoints.zip<br>
+├── coco_kpts<br>
+│   ├── images<br>
+│   │   ├── test2017<br>
+│   │   ├── train2017<br>
+│   │   └── val2017<br>
+│   ├── labels<br>
+│   │   ├── train2017<br>
+│   │   └── val2017<br>
+│   ├── train2017.cache<br>
+│   ├── train2017.txt<br>
+│   ├── val2017.cache<br>
+│   └── val2017.txt<br>
+├── coco.zip<br>
+├── yolov7-pose<br>
+│   ├── cfg<br>
+│   │   └── yolov7-w6-pose.yaml<br>
+│   ├── data<br>
+│   │   ├── coco_kpts_128.yaml<br>
+│   │   ├── coco_kpts.yaml<br>
+│   │   ├── hyp.pose.yaml<br>
+│   │   └── scripts<br>
+│   ├── detect.py<br>
+│   ├── hubconf.py<br>
+│   ├── LICENSE.md<br>
+│   ├── models<br>
+│   │   ├── common.py<br>
+│   │   ├── experimental.py<br>
+│   │   ├── export.py<br>
+│   │   ├── hub<br>
+│   │   ├── __init__.py<br>
+│   │   ├── __pycache__<br>
+│   │   └── yolo.py<br>
+│   ├── onnx_inference<br>
+│   │   ├── img.png<br>
+│   │   ├── sample_ips.txt<br>
+│   │   └── yolo_pose_onnx_inference.py<br>
+│   ├── README.md<br>
+│   ├── requirements.txt<br>
+│   ├── runs<br>
+│   │   └── test<br>
+│   ├── test.py<br>
+│   ├── train.py<br>
+│   ├── utils<br>
+│   │   ├── activations.py<br>
+│   │   ├── autoanchor.py<br>
+│   │   ├── aws<br>
+│   │   ├── datasets.py<br>
+│   │   ├── figures<br>
+│   │   ├── flask_rest_api<br>
+│   │   ├── general.py<br>
+│   │   ├── google_app_engine<br>
+│   │   ├── google_utils.py<br>
+│   │   ├── __init__.py<br>
+│   │   ├── loss.py<br>
+│   │   ├── metrics.py<br>
+│   │   ├── plots.py<br>
+│   │   ├── __pycache__<br>
+│   │   ├── torch_utils.py<br>
+│   │   └── wandb_logging<br>
+│   ├── weights<br>
+│   │   └── yolov7-w6-person.pt<br>
+│   └── yolov7-w6-pose.pt<br>
+└── yolov7-pose.zip<br>
