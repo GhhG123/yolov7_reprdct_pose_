@@ -72,7 +72,7 @@
 
 
 
-<img src='Untitled Folder/截屏2023-07-21 22.14.05.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 22.24.59.png' width=350 align=left>
+<img src='Untitled Folder/截屏2023-07-21 22.14.05.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 22.24.59.png' width=350 >
 
 
 
@@ -94,7 +94,15 @@
 
 
 
-<img src='Untitled Folder/截屏2023-07-21 22.48.05.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 11.33.57.png' width=350 align=left>
+<img src='Untitled Folder/截屏2023-07-21 22.48.05.png' width=350 align=left><img src='Untitled Folder/截屏2023-07-21 11.33.57.png' width=350 >
+
+
+
+
+
+
+
+
 
 
 
